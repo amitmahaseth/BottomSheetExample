@@ -5,7 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/dialog_bg.xml" value="0.20615384615384616" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
-        <entry key="app/src/main/res/layout/bottom_sheet_layout.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
       </map>
     </option>
   </component>
